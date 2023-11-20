@@ -1,0 +1,8 @@
+D:\nanda\hotel\hotel\bin\Debug\hotel.exe.config
+D:\nanda\hotel\hotel\bin\Debug\hotel.exe
+D:\nanda\hotel\hotel\bin\Debug\hotel.pdb
+D:\nanda\hotel\hotel\obj\Debug\hotel.csproj.AssemblyReference.cache
+D:\nanda\hotel\hotel\obj\Debug\hotel.csproj.SuggestedBindingRedirects.cache
+D:\nanda\hotel\hotel\obj\Debug\hotel.csproj.CoreCompileInputs.cache
+D:\nanda\hotel\hotel\obj\Debug\hotel.exe
+D:\nanda\hotel\hotel\obj\Debug\hotel.pdb
